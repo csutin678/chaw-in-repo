@@ -1,0 +1,89 @@
+Name,Location,Cuisine,Cuisine type,Star,Latitude,Longtitude,$,Casual or Fine,Yelp Ratings,Trip Advisor Rating,Food,Service,Value,Atmosphere
+The French Laundry,Yountville,Contemporary,"Contemporary, French",3,38.40443,-122.36474,$$$$,FINE,4.5,4.5,4.5,4.5,3.5,4.5
+Quince,San Francisco,Contemporary,"Contemporary, Californian",3,37.79762,-122.40337,$$$$,FINE,4,4.5,4.5,5,4,4.5
+Benu,San Francisco,Asian,"Contemporary, Asian",3,37.78521,-122.39876,$$$$,FINE,4.5,4.5,4.5,4.5,3.5,4
+Atelier Crenn,San Francisco,Contemporary,"Contemporary, French Contemporary",3,37.79835,-122.43586,$$$$,FINE,4.5,4.5,4.5,4.5,4,4
+SingleThread,Healdsburg,Contemporary,Contemporary,3,38.612164,-122.869705,$$$$,FINE,4.5,4.5,5,5,4,Null
+Manresa,Los Gatos,Contemporary,"Contemporary, Californian",3,37.22761,-121.98071,$$$$,FINE,4,4,4.5,4.5,3,4
+Commis,Oakland,Contemporary,Contemporary,2,37.82476,-122.25505,$$$$,FINE,4.5,4.5,4.5,4.5,4,4
+Coi,San Francisco,Contemporary,"Contemporary, Californian",2,37.79812,-122.40331,$$$$,FINE,4,4,4,4.5,3.5,4
+Taj Campton Place,San Francisco,Indian,"Indian, Contemporary",2,37.78923,-122.40665,$$$$,FINE,4,4.5,4.5,4.5,4,4.5
+Acquerello,San Francisco,Italian,"Italian, Contemporary",2,37.79167,-122.42131,$$$$,FINE,4.5,4.5,4.5,5,4,4.5
+Saison,San Francisco,Californian,"Californian, Contemporary",2,37.76327,-122.41543,$$$$,FINE,4,4.5,4.5,4.5,3.5,4.5
+Lazy Bear,San Francisco,Contemporary,"Contemporary, Modern Cuisine",2,37.760204,-122.41969,$$$$,FINE,4.5,4.5,4.5,4.5,3.5,4
+Californios,San Francisco,Mexican,"Mexican, Contemporary",2,37.75555,-122.417145,$$$$,FINE,4.5,4.5,4.5,5,4,4.5
+Baumé,Palo Alto,Contemporary,"Contemporary, French",2,37.4285,-122.14272,$$$$,FINE,3.5,4.5,4.5,4.5,3.5,4
+Sushi Ginza Onodera,West Hollywood,Japanese,"Japanese, Sushi",2,34.08238,-118.37654,$$$$,FINE,4.5,4.5,4.5,4.5,4,4
+Providence,Hollywood,Seafood,Seafood,2,34.083523,-118.33019,$$$$,FINE,4.5,4.5,5,5,4,Null
+n/naka,Los Angeles,Contemporary,"Japanese, Contemporary",2,34.02526,-118.41206,$$$$,FINE,4.5,4.5,4.5,4.5,3.5,4
+Vespertine,Culver City,Contemporary,Contemporary,2,34.024204,-118.38166,$$$$,FINE,4.5,4.5,4.5,4.5,4,4
+The Kitchen,Sacramento,Contemporary,"Contemporary, Californian",1,38.58894,-121.41424,$$$$,FINE,4.5,4,4,4,3.5,4
+La Toque,Napa,Contemporary,Contemporary,1,38.30351,-122.28349,$$$$,FINE,4,4.5,4.5,4.5,4,4
+Kenzo,Napa,Japanese,Japanese,1,38.29924,-122.28928,$$$$,FINE,4.5,4.5,4.5,5,4,4.5
+Bouchon,Yountville,French,French,1,38.40258,-122.3619,$$$,FINE,4,4,4.5,4.5,3,4.5
+Auberge du Soleil,Rutherford,Californian,Californian,1,38.49199,-122.40534,$$$$,FINE,4.5,4,4.5,4.5,3.5,3
+Madcap,San Anselmo,Contemporary,"Contemporary, Japanese Contemporary",1,37.974712,-122.56168,$$$$,FINE,4.5,4.5,4.5,5,4,4.5
+Angler,San Francisco,Contemporary,"Contemporary, Seafood",1,37.793167,-122.39213,$$$$,FINE,4,4.5,4.5,4.5,3.5,4
+Michael Mina,San Francisco,Contemporary,"Contemporary, North African",1,37.79349,-122.399574,$$$$,FINE,4,4.5,4.5,4.5,4,4
+Gary Danko,San Francisco,Contemporary,Contemporary,1,37.80599,-122.42066,$$$$,FINE,4.5,4.5,3,5,4,Null
+Mister Jiu's,San Francisco,Chinese,Chinese,1,37.79371,-122.406654,$$$,FINE,4,4.5,4.5,4.5,3.5,4
+Mourad,San Francisco,Moroccan,Moroccan,1,37.78695,-122.39987,$$$,FINE,4.5,4.5,4.5,4.5,4,4
+In Situ,San Francisco,International,International,1,37.785633,-122.40113,$$$$,FINE,3.5,4,4,4.5,3.5,4
+Sons & Daughters,San Francisco,Contemporary,Contemporary,1,37.79037,-122.40917,$$$$,FINE,4,4.5,4.5,4.5,4,4.5
+Keiko à Nob Hill,San Francisco,Fusion,"Japanese, French",1,37.793106,-122.41445,$$$$,FINE,4.5,4.5,4.5,5,4,4.5
+Lord Stanley,San Francisco,Californian,Californian,1,37.79592,-122.42208,$$$,FINE,4,4,4.5,4.5,3.5,4.5
+Luce,San Francisco,Contemporary,Contemporary,1,37.78194,-122.40498,$$$,FINE,3.5,4.5,4.5,4.5,3.5,4.5
+Kin Khao,San Francisco,Thai,"Thai, Californian",1,37.785267,-122.40951,$$,CASUAL,4,4,4.5,5,4,4.5
+Hashiri,San Francisco,Japanese,Japanese,1,37.783062,-122.40754,$$$$,FINE,4.5,4.5,4,4.5,3.5,4
+Birdsong,San Francisco,American,"American, Californian",1,37.779495,-122.41048,$$$$,FINE,4.5,4.5,4.5,4.5,4,4
+Bar Crenn,San Francisco,French,"French, Classic French",1,37.798435,-122.43581,$$$,FINE,4,4.5,5,5,4,Null
+Omakase,San Francisco,Japanese,"Japanese, Sushi",1,37.77077,-122.40298,$$$$,FINE,4.5,4.5,4.5,4.5,3.5,4
+Octavia,San Francisco,Californian,"Californian, American",1,37.787857,-122.42709,$$$,FINE,4,4.5,4.5,4.5,4,4
+SPQR,San Francisco,Italian,"Italian, American Contemporary",1,37.78732,-122.43375,$$$,FINE,3.5,4,4,4.5,3.5,4
+The Progress,San Francisco,Californian,"Californian, American Contemporary",1,37.78371,-122.43282,$$$,FINE,4,4.5,4.5,4.5,4,4.5
+State Bird Provisions,San Francisco,American,"American, Californian",1,37.783737,-122.43283,$$,CASUAL,4,4.5,4.5,5,4,4.5
+Rich Table,San Francisco,Contemporary,Contemporary,1,37.774914,-122.42271,$$$,FINE,4,4.5,4.5,4.5,3,4.5
+Sorrel,San Francisco,Californian,"Californian, Italian",1,37.788334,-122.44614,$$$,FINE,4.5,4,4.5,4.5,3.5,4.5
+Ju Ni,San Francisco,Japanese,"Japanese, Contemporary",1,37.77672,-122.43886,$$$$,FINE,4.5,4.5,4.5,5,4,4.5
+Spruce,San Francisco,Californian,"Californian, Contemporary",1,37.78772,-122.45264,$$$,FINE,4,4.5,4.5,4.5,3.5,4
+Wako,San Francisco,Japanese,"Japanese, Sushi",1,37.783035,-122.461525,$$$$,FINE,4.5,4.5,4.5,4.5,4,4
+Al's Place,San Francisco,Californian,"Californian, American Contemporary",1,37.748924,-122.42013,$$,CASUAL,4,4.5,5,5,4,Null
+Madrona Manor,Healdsburg,Contemporary,Contemporary,1,38.60428,-122.88647,$$$$,FINE,4.5,4.5,4.5,4.5,3.5,4
+Farmhouse Inn & Restaurant,Forestville,Californian,Californian,1,38.49039,-122.8835,$$$$,FINE,4,4.5,4.5,4.5,4,4
+Sushi Yoshizumi,San Mateo,Japanese,"Japanese, Sushi",1,37.565075,-122.3211,$$$$,FINE,4.5,4,4,4.5,3.5,4
+Rasa,Burlingame,Indian,"Indian, Contemporary",1,37.577522,-122.345985,$$,CASUAL,4,4.5,4.5,4.5,4,4.5
+Wakuriya,San Mateo,Japanese,"Japanese, Contemporary",1,37.52114,-122.3366,$$$$,FINE,4.5,4.5,4.5,5,4,4.5
+Protégé,Palo Alto,Contemporary,"Contemporary, Californian",1,37.427853,-122.14362,$$$,FINE,4.5,4.5,4.5,4.5,3.5,4.5
+Chez TJ,Mountain View,Contemporary,"Contemporary, American",1,37.39468,-122.08044,$$$$,FINE,4,4.5,4.5,4.5,3.5,4.5
+Madera,Menlo Park,Contemporary,"Contemporary, Californian",1,37.42014,-122.21151,$$$,FINE,3.5,4.5,4.5,5,4,4.5
+The Village Pub,Woodside,Contemporary,"Contemporary, American Contemporary",1,37.42897,-122.25178,$$$,FINE,4,4.5,4.5,4.5,3.5,4
+Plumed Horse,Saratoga,Contemporary,"Contemporary, American Contemporary",1,37.25648,-122.03537,$$$$,FINE,4,4.5,4.5,4.5,4,4
+Harbor House,Elk,Californian,"Californian, Creative",1,39.135876,-123.719444,$$$$,FINE,4.5,4.5,5,5,4,Null
+Aubergine,Carmel-by-the-Sea,Contemporary,"Contemporary, Californian",1,36.55406,-121.924355,$$$$,FINE,4,4.5,4.5,4.5,3.5,4
+Shin Sushi,Encino,Japanese,"Japanese, Sushi",1,34.15784,-118.49415,$$$,FINE,4.5,4.5,4.5,4.5,4,4
+Kato,Los Angeles,Asian,"Asian, Taiwanese",1,34.041683,-118.460915,$$$,FINE,4.5,4,4,4.5,3.5,4
+Nozawa Bar,Beverly Hills,Japanese,"Japanese, Sushi",1,34.0683,-118.39849,$$$$,FINE,4.5,4.5,4.5,4.5,4,4.5
+CUT,Beverly Hills,Steakhouse,"Steakhouse, American",1,34.067036,-118.401024,$$$$,FINE,4,4.5,4.5,5,4,4.5
+Maude,Beverly Hills,Contemporary,"Contemporary, European Contemporary",1,34.064346,-118.39904,$$$$,FINE,4,4.5,4.5,4.5,3.5,4.5
+Rustic Canyon,Santa Monica,Californian,Californian,1,34.024952,-118.49118,$$$,FINE,4,4.5,4.5,4.5,3.5,4.5
+Osteria Mozza,Los Angeles,Italian,Italian,1,34.08342,-118.338974,$$$,FINE,4,4.5,4.5,5,4,4.5
+Mori Sushi,Los Angeles,Japanese,Japanese,1,34.033398,-118.44229,$$$$,FINE,4,4.5,4.5,4.5,3.5,4
+Kali,Hollywood,Californian,Californian,1,34.083443,-118.32455,$$$,FINE,4.5,4.5,4.5,4.5,4,4
+Shunji,Los Angeles,Japanese,Japanese,1,34.028496,-118.45195,$$$$,FINE,4,4.5,5,5,4,Null
+Le Comptoir,Los Angeles,Californian,"Californian, Vegetarian",1,34.06354,-118.30057,$$$$,FINE,4,4.5,4.5,4.5,3.5,4
+Q Sushi,Los Angeles,Japanese,"Japanese, Sushi",1,34.046883,-118.255844,$$$$,FINE,4,4.5,4.5,4.5,4,4
+Orsa & Winston,Los Angeles,Fusion,"Contemporary, Asian",1,33.92145,-118.275406,$$$$,FINE,4,4,4,4.5,3.5,4
+Shibumi,Los Angeles,Japanese,"Japanese, Asian and Western",1,34.044155,-118.256134,$$$$,FINE,3.5,4.5,4.5,4.5,4,4.5
+Hayato,Los Angeles,Japanese,"Japanese, Seafood",1,34.03311,-118.24265,$$$$,FINE,5,4.5,4.5,5,4,4.5
+Bistro Na's,Temple City,Chinese,"Chinese, Beijing Cuisine",1,34.104412,-118.07159,$$,CASUAL,4,4.5,4.5,4.5,3.5,4.5
+Taco Mar√≠a,Costa Mesa,Mexican,"Mexican, Contemporary",1,33.69475,-117.924965,$$$,FINE,4,3,4.5,4.5,3,4.5
+Hana re,Costa Mesa,Japanese,"Japanese, Sushi",1,33.67759,-117.886566,$$$$,FINE,4.5,4.5,4.5,5,4,4.5
+Addison,San Diego,Contemporary,"Contemporary, French",1,32.939903,-117.20013,$$$$,FINE,4.5,4.5,4.5,4.5,3.5,4
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
